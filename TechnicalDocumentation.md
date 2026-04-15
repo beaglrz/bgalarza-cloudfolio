@@ -133,7 +133,7 @@ This system uses a two-part structure. The frontend is a static website that is 
 
 ### Cost Analysis
 
-The estimated monthly cost to run the BGalarza CloudFolio setup is about $33.88. The highest costs are the Application Load Balancer (~$16.43) and EC2 servers (~$16.06), which run continuously. DynamoDB, S3, CloudFront, and CloudWatch together cost less than $1.50 per month due to low usage and small storage. If you qualify for the AWS Free Tier, EC2 costs are covered for the first 12 months, lowering the monthly cost to about $17.82. All resources will be kept running as this portfolio site will remain live and accessible.
+The estimated monthly cost to run the BGalarza CloudFolio setup is about $33.88. The highest costs are the Application Load Balancer (approximately $16.43) and EC2 servers (approximately $16.06), which run continuously. DynamoDB, S3, CloudFront, and CloudWatch together cost less than $1.50 per month due to low usage and small storage. If you qualify for the AWS Free Tier, EC2 costs are covered for the first 12 months, lowering the monthly cost to about $17.82. All resources will be kept running as this portfolio site will remain live and accessible.
 
 | AWS Service | Est. Monthly Cost | Notes |
 |-------------|-------------------|-------|
