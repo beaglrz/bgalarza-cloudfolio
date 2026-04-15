@@ -1,6 +1,6 @@
 # Full-Stack Web Application: Beatriz Galarza Cloudfolio
 
-<img width="956" height="1032" alt="image" src="https://raw.githubusercontent.com/beaglrz/bgalarza-cloudfolio/refs/heads/main/screenshots/14.%20Live%20Website.png" />)
+![Live Website](screenshots/14.%20Live%20Website.png)
 
 # Project Overview
 This project focuses on designing and deploying BGalarza CloudFolio,  a portfolio website, using key AWS cloud services. The site displays projects, AWS skills, and includes a working contact form. It runs on a scalable, reliable cloud setup that uses EC2, Application Load Balancer, Auto Scaling, DynamoDB, S3, and CloudFront.
@@ -18,4 +18,4 @@ This project focuses on designing and deploying BGalarza CloudFolio,  a portfoli
 10. Upload index.html to S3 and set index.html as the CloudFront default root object.
 
 # Architecture Diagram
-<img src= "https://raw.githubusercontent.com/beaglrz/bgalarza-cloudfolio/refs/heads/main/screenshots/17.%20Architecture%20Diagram.png" />
+![Architecture Diagram](screenshots/17.%20Architecture%20Diagram.png)
