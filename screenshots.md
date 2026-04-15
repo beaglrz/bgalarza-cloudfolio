@@ -55,13 +55,13 @@
 ![CloudFront Behaviors](screenshots/13b.%20CloudFront%20Distribution%20Behaviors.png)
 
 ## 14. CloudWatch Dashboard
-![CloudWatch Dashboard](screenshots/14.%20CloudWatch%20Dashboard.png)
+![CloudWatch Dashboard](screenshots/15.%20CloudWatch%20Dashboard.png)
 
 ## 15. Cost Analysis
-![Cost Analysis](screenshots/15.%20Cost%20Analysis.png)
+![Cost Analysis](screenshots/16.%20Cost%20Analysis.png)
 
 ## 16. Architecture Diagram
-![Architecture Diagram](screenshots/16.%20Architecture%20Diagram.png)
+![Architecture Diagram](screenshots/17.%20Architecture%20Diagram.png)
 
 ## 17. Live Website
-![Live Website](screenshots/17.%20Live%20Website.png)
+![Live Website](screenshots/14.%20Live%20Website.png)
